@@ -20,7 +20,7 @@ in which he/she needs to improve more.Also, the users can give feedback, which i
 the Sentiment classifier to distinguish this as positive or negative feedback. The admin can view the sentiment analysis report to 
 improve the questions further in each topic.
 
-A stick notes kind of feature is available in this application , user can store important notes in this sticy notes ,once 
+A sticky notes kind of feature is available in this application , user can store important notes in this sticky notes ,once 
 the user saves the information in the sticky notes , he can view the information any number of times by logging in to his account.
 user can also modify and delete the existing notes.
 
@@ -30,25 +30,25 @@ The website is accessible only on Authentication of users or admin during Login.
 
 ### The website provides following services:
 
-1.	Online examination in various programming languages with a choice of sub-topic
-2.	Leaderboard covering performance of all the users 
-3.	Registration to Offline exams
+1.	Online examination in various programming languages with a choice of sub-topic.
+2.	Leaderboard covering performance of all the users.
+3.	Registration to Offline exams.
 4.	Suggests users with topics they can take quiz, on completion of their quiz based on their performance
 5.	Stores the responses and feedback of users for improving the quality of questions.
 
 ### A User can perform following:
-1.	Take a quiz on a technical topic of his/her choice
-2.	View score on completion of the exam
-3.	View leaderboard to compare his score evaluated on all his/her past performance
-4.	Provide feedback for the quiz
-5.	Register to offline exams
+1.	Take a quiz on a technical topic of his/her choice.
+2.	View score on completion of the exam.
+3.	View leaderboard to compare his score evaluated on all his/her past performance.
+4.	Provide feedback for the quiz.
+5.	Register to offline exams.
 
 ### An Admin can perform following:
-1.	View leaderboard of the users
-2.	Add or delete questions
-3.	Create new exams
-4.	Update question level
-5.	View Sentiment analysis
+1.	View leaderboard of the users.
+2.	Add or delete questions.
+3.	Create new exams.
+4.	Update question level.
+5.	View Sentiment analysis.
 
 ## Future Scope:
 
