@@ -1,6 +1,6 @@
 # QuizMe
 
-This project is a web application that helps users solve online examinations on various programming languages. 
+QuizMe is a web application that helps users solve online examinations on various programming languages. 
 A user has a choice in the selection of programming language and the sub-topic he/she plans to attempt. 
 The website offers practice exam to the users. On the consumer side, when a user finishes an examination, 
 they are evaluated based on their score and score history (if any) and are ranked accordingly on the leaderboard 
